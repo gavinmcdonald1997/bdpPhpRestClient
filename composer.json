@@ -1,5 +1,5 @@
 {
-  "name": "gavinmcdonald1997/bdpPhpRestClient",
+  "name": "gavinmcdonald1997/bdpphprestclient",
   "description": "Fork of BDP PHP Rest Client repo so we can use it in PAPI.",
   "type": "project",
   "license": "GPL-3.0",
@@ -9,7 +9,7 @@
     "composer/installers": ">=1.0"
   },
   "dist": {
-    "url": "git@github.com:gavinmcdonald1997/bdpPhpRestClient.git",
+    "url": "git@github.com:gavinmcdonald1997/bdpphprestclient.git",
     "type": "git"
   }
 }
